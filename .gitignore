@@ -2,6 +2,8 @@
 absoluto
 mayor
 
+#vs code folder
+.vscode/
 # Prerequisites
 *.d
 
